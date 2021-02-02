@@ -1,0 +1,7 @@
+{
+  "name": "skooldio-ionic-react-workshop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
